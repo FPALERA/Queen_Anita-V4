@@ -1,23 +1,23 @@
 global.owner = [
-  "2347043759577",
+  "22658179319",
   ""
 ]
-global.anitav4 = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
-global.ownername = "David Cyril"
+global.anitav4 = "FPALERABOT"
+global.ownername = "FPALERA"
 global.packname = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
-global.author = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
-global.channelname = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
-global.channeljid = "120363315231436175@newsletter"
+global.author = "FPALERA"
+global.channelname = "FPALERA"
+global.channeljid = "wa.me/c/22658179319"
 global.autoTyping = false;                //make true to enable auto typing
 global.autoRecord = false;                //make true to enable auto recording
-global.autoViewStatus = true;   // Set to true to automatically read statuses
+global.autoViewStatus = false;   // Set to true to automatically read statuses
 global.AUTOSTATUS_REACT = false;   // Set to true to automatically like statuses
 global.autoLikeEmoji = "💚";    // Default emoji for liking statuses
 
 global.LEVELUP = false;
 
 
-global.ANTIVIEWONCE = false;
+global.ANTIVIEWONCE = true;
 
 global.roles = {
     1: "Novice",
@@ -30,7 +30,7 @@ global.roles = {
     25: "Legend",
 };
 
-global.sudoUsers = ["2349066528353@s.whatsapp.net", "2348129988915@s.whatsapp.net"]; // Add the JIDs of sudo users
+global.sudoUsers = ["22658179319@s.whatsapp.net", "22658179319@s.whatsapp.net"]; // Add the JIDs of sudo users
 
 
 
