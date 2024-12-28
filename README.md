@@ -3,7 +3,7 @@
 ### 1. COPY THIS REPO
 
 ```
-git clone https://github.com/FPALERA/Queen_Anita-V4 FPBOT
+git clone https://github.com/FPALERA/Queen_Anita-V4 FP_BOT
 ```
 
 ### 2. GET SESSION ID HERE
