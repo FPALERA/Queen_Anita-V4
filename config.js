@@ -50,7 +50,7 @@ global.autoreact = false;
 
 global.WELCOME = false;
 
-global.prefix = '.';
+global.prefix = '*';
 
 global.autobio = false;
 
