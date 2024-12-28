@@ -50,7 +50,7 @@ git clone https://github.com/FPALERA/Queen_Anita-V4 FP_BOT
 8. **Start and Stop the Bot:**
     - To start the bot:
       ```sh
-      pm2 start . --name FP_BOT
+      pm2 start . --name FP_BOT --attach --time
       ```
     - To define autostart:
       ```sh
