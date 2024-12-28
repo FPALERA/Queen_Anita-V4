@@ -57,6 +57,13 @@ git clone https://github.com/FPALERA/Queen_Anita-V4 FP_BOT
       pm2 save
       pm2 startup
       ```
+      
+#### Obtenir un serveur ici
+<a href="https://www.digitalocean.com/?refcode=1ddbfbb00962&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+
+#### CONTACTS
+<a href="wa.me/22658179319"><img src="https://static.whatsapp.net/rsrc.php/yZ/r/JvsnINJ2CZv.svg" alt="Whatsapp" /></a>
+<a href="t.me/FPALERA"><img src="https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q=w240-h480-rw" alt="Telegram" /></a>
 
 #### ```FPALERA PROFILE VIEWS 🧚```
 ![Visitor Count](https://profile-counter.glitch.me/FPALERA/count.svg)
