@@ -2,7 +2,9 @@
 
 ### 1. COPY THIS REPO
 
-```git clone https://github.com/FPALERA/Queen_Anita-V4 ```
+```
+git clone https://github.com/FPALERA/Queen_Anita-V4 FPBOT
+```
 
 ### 2. GET SESSION ID HERE
 
